@@ -1,7 +1,9 @@
 # Projeto: Calculadora
 
 Resultado:
-![calculadora-funcionando](https://user-images.githubusercontent.com/100172257/193958542-aa63e35d-aa46-4bac-95d6-9248a169ff71.jpeg)
+<img src="https://user-images.githubusercontent.com/100172257/193958542-aa63e35d-aa46-4bac-95d6-9248a169ff71.jpeg"
+  height = "400"
+  />
 
 # Para rodar o projeto:
 
